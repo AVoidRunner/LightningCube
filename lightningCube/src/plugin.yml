@@ -1,0 +1,13 @@
+#Just gotta get it setup here bois
+#forgot to include the name and stuff only did the command haha...
+
+main: me.voidrunnerv.lightningCube.Main
+name: LightningCube
+version: 1.0
+author: Voidrunnerv
+
+commands:
+   lightning:
+      description: Type how big you'd like your lightning cube to be!
+      usage: /lightning <size>
+      permission: lightningCube.yeet
